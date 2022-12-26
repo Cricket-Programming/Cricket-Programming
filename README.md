@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cricket-Programming
 - 👀 I’m interested in exploring programming
-- 🌱 I’m currently learning web development. I plan on starting to use Unity.
+- 🌱 I’m currently learning web development.
 
 
 <!---
