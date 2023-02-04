@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cricket-Programming
 - 👀 I’m interested in exploring programming
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently learning web development and Unity.
 
 The only project that I have on github (cricket-programming.github.io) is not well done so don't use it as a resource.
 Once I have built a good project, I will post it here.
