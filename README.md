@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Cricket
 - 👀 I've worked with HTML, CSS, Javascript, Python, Java and C#
-- 🌱 I’m am currently spending most of my time programming doing C# in Unity. I'm also learning backend web development.
+- 🌱 I’m am currently spending most of my time programming doing C# in Unity.
+- 
 Check out my virtual reality game that's called Capuchin Caverns! https://www.meta.com/experiences/6832105786812201/
 It's on the Meta Quest AppLab and is multiplayer.
 
