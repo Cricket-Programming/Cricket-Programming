@@ -1,5 +1,14 @@
-- Hi, I’m Liam Lazaro.
-- I built and shipped Capuchin Caverns, a social VR title on the Meta Horizon Store (15,000 installs, 2000 MAU at peak). I like owning systems end-to-end and learning from what breaks in production.
+I build and operate multiplayer VR systems used by real players.
+
+I shipped Capuchin Caverns, a social VR game on the Meta Horizon Store:
+- 15,000+ Installs, ~2,000 Monthly Active Users at peak
+- Physics-based locomotion (arm-driven movement, climbing, flying)
+- Real-time multiplayer: state replication, proximity voice, networked avatars
+- Live cosmetic economy backed by Azure PlayFab
+- VR-native in-world checkout integrated with Meta’s payment flow
+
+I like owning systems end-to-end and learning from what breaks in production.
+
 - Meta Horizon Store Download: https://www.meta.com/experiences/6832105786812201/
 - Code Repository: https://github.com/Cricket-Programming/Capuchin-Caverns
 
