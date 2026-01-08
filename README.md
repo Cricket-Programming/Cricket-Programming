@@ -1,4 +1,4 @@
- Hi, I’m Liam Lazaro!
+ Hi, I’m Liam Lazaro.
  
  I built and shipped Capuchin Caverns, a live multiplayer VR title on the Meta Horizon Store (15,000+ downloads, 2000+ Monthly Active Users at peak)
  
